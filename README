@@ -1,0 +1,4 @@
+C code for Senior Design Project. 
+Raspberry Pi that controls TEA5767 FM chip through I2C bus with the addition of LCD screen
+Implemented wiringPi library to create software managed radio.
+Also coded for physical user input with buttons and rotary encoders to change frequency
